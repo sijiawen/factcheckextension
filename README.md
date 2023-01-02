@@ -5,7 +5,7 @@ Misinformation is rampant on Twitter and fact checking is tedious. AutoFactcheck
 
 ### **Installation Instructions?**
 1. Download this repo as a [ZIP file from GitHub](https://github.com/sijiawen/factcheckextension/archive/refs/heads/main.zip).
-2. Unzip the file and you should have a folder named factcheckextension.
+2. Unzip the file and you should have a folder named **factcheckextension**.
 3. In Chrome, go to the extensions page (`chrome://extensions`).
 4. Enable Developer Mode.
-5. Drag the factcheckextension folder anywhere on the page to import it (do not delete the folder afterwards).
+5. Drag the **factcheckextension** folder anywhere on the page to import it (do not delete the folder afterwards).
